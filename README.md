@@ -32,5 +32,14 @@ A saúde emocional surge como um fator crítico. Na amostra geral, 29% dos disce
 
 # Próximos Passos
 
-- [x] A análise dos dados permitiu identificar discentes com elevado risco de evasão, os quais foram reportados às coordenações de curso. A partir desse mapeamento, as coordenações realizaram o encaminhamento ao apoio psicopedagógico nos casos pertinentes. Essas ações gerarão novos indicadores que, posteriormente, serão submetidos a uma análise crítica para avaliação dos resultados.
-- [x] A análise permitiu identificar diversos fatores motivacionais para a evasão. Sobre as variáveis passíveis de intervenção institucional, serão implementadas ações de melhoria visando mitigar o abandono acadêmico. Nesse sentido, é fundamental que esta metodologia de análise seja institucionalizada e integrada à rotina da gestão acadêmica. 
+- A análise dos dados permitiu identificar discentes com elevado risco de evasão, os quais foram reportados às coordenações de curso. A partir desse mapeamento, as coordenações realizaram o encaminhamento ao apoio psicopedagógico nos casos pertinentes. Essas ações gerarão novos indicadores que, posteriormente, serão submetidos a uma análise crítica para avaliação dos resultados.
+- A análise permitiu identificar diversos fatores motivacionais para a evasão. Sobre as variáveis passíveis de intervenção institucional, serão implementadas ações de melhoria visando mitigar o abandono acadêmico. Nesse sentido, é fundamental que esta metodologia de análise seja institucionalizada e integrada à rotina da gestão acadêmica.
+
+# Dashboards
+<p float="left">
+  <img src="assets/PerfilParticipantes.png" width="150"/>
+  <img src="assets/PerfilSociodemografico.png" width="150"/>
+  <img src="assets/PerfilPsicopedagogico.png" width="150"/>
+  <img src="assets/Correlacoes.png" width="150"/>
+  <img src="assets/Influenciadores.png" width="150"/>
+</p>
