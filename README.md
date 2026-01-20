@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" title="PowerBI" width="30" height="30"/> **Power BI** &nbsp; &nbsp;</a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" width="20px"> **Google Sheets** &nbsp; &nbsp;
-<img src="./assets/Forms.png" alt="Google Forms" title="Google Forms" width="50" height="50"> **Google Forms** </a>
+<img src="./assets/Forms.jpg" alt="Google Forms" title="Google Forms" width="25" height="25"> **Google Forms** </a>
 
 # Caracterização do potencial de evasão discente 
 
