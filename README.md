@@ -21,9 +21,11 @@ Observou-se que o percentual de estudantes que relataram pensar frequentemente o
 
 A alta dificuldade em acompanhar as disciplinas foi relatada por 36,33% dos participantes. No entanto, este índice é drasticamente maior entre os discentes com de alto potencial de evasão. Neste subgrupo, a dificuldade elevada foi apontada por 62,5%. Este panorama é gerados por diversos fatores, entre eles a defasagem de conhecimentos básicos do ensino médio e as dificuldades relatadas no relacionamento com os docentes.
 
+
 - [x] NECESSIDADE DE CONCILIAR OS ESTUDOS COM O TRABALHO
 
 A dificuldade acadêmica, em particular, é agravada pela realidade do Campus: a escassez de tempo para estudar, relatada pela maioria, está diretamente ligada ao fato de que cerca de 70% dos estudantes trabalham. 
+
 
 - [x] QUESTÕES DE SAÚDE EMOCIONAL
 
