@@ -1,7 +1,8 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" title="PowerBI" width="30" height="30"/> &nbsp; &nbsp;</a>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" title="Excel" width="30" height="30"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" title="PowerBI" width="30" height="30"/> **Power BI** &nbsp; &nbsp;</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" width="20px"> **Google Sheets** &nbsp; &nbsp;
+<img src="./assets/Forms.png" alt="Google Forms" title="Google Forms" width="50" height="50"> **Google Forms** </a>
 
-# Caracterizacao do potencial de evasao discente 
+# Caracterização do potencial de evasão discente 
 
 Análise de dados sobre o perfil de evasão discente em uma universidade federal. Este projeto utiliza dados de estudantes ativos para mapear tendências de evasão com base em indicadores acadêmicos e sociodemográficos.
 
