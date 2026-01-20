@@ -20,13 +20,11 @@ Observou-se que o percentual de estudantes que relataram pensar frequentemente o
 - [x] DIFICULDADE EM ACOMPANHAR AS DISCIPLINAS:
 
 A alta dificuldade em acompanhar as disciplinas foi relatada por 36,33% dos participantes. No entanto, este índice é drasticamente maior entre os discentes com de alto potencial de evasão. Neste subgrupo, a dificuldade elevada foi apontada por 62,5%. Este panorama é gerados por diversos fatores, entre eles a defasagem de conhecimentos básicos do ensino médio e as dificuldades relatadas no relacionamento com os docentes.
-
-
+#
 - [x] NECESSIDADE DE CONCILIAR OS ESTUDOS COM O TRABALHO
 
 A dificuldade acadêmica, em particular, é agravada pela realidade do Campus: a escassez de tempo para estudar, relatada pela maioria, está diretamente ligada ao fato de que cerca de 70% dos estudantes trabalham. 
-
-
+#
 - [x] QUESTÕES DE SAÚDE EMOCIONAL
 
 A saúde emocional surge como um fator crítico. Na amostra geral, 29% dos discentes relataram baixa saúde emocional, enquanto 37,5% se posicionaram de forma neutra, indicando que a maioria não se sente em estado positivo. O dado torna-se alarmante ao analisar o subgrupo com alto potencial de evasão: neste grupo, a percepção de baixa saúde emocional foi relatada por 63,27% dos participantes. Estes resultados permitem inferir a existência de relação negativa entre potencial de evasão e saúde emocional. Ou seja, aumentando a saúde emocional, perceber-se-ia a diminuição da frequência média de pensamento em evadir. 
